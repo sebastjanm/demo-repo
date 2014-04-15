@@ -1,4 +1,4 @@
 demo-repo
 =========
 
-Sample repo for training
+Sample repo for training.  It's fabulous!
